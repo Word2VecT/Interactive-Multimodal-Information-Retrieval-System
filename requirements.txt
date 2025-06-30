@@ -8,4 +8,5 @@ einops
 torchvision
 numpy
 chromadb
-tqdm 
+tqdm
+openai 
